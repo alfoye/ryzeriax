@@ -1,2 +1,2 @@
-# ryzeriax
-The RyzeriaX Development Plan
+# RyzariaX
+The RyzeriaX Development Process
