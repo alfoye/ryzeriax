@@ -1,2 +1,2 @@
-# RyzariaX
+# RyzeriaX
 The RyzeriaX Development Process
